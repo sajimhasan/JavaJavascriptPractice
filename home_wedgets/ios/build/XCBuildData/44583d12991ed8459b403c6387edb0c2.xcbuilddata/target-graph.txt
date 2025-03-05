@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'Runner' in project 'Runner'
+➜ Explicit dependency on target 'ReminderExtension' in project 'Runner'
+Target 'ReminderExtension' in project 'Runner' (no dependencies)

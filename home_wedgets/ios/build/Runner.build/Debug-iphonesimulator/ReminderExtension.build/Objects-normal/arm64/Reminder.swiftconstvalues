@@ -1,0 +1,39 @@
+[
+  {
+    "typeName": "ReminderExtension.ConfigurationAppIntent",
+    "mangledTypeName": "17ReminderExtension22ConfigurationAppIntentV",
+    "kind": "struct",
+    "file": "/Users/sazim/Desktop/Development/home_wedgets/ios/Reminder/AppIntent.swift",
+    "line": 11,
+    "conformances": [
+      "AppIntents.WidgetConfigurationIntent",
+      "AppIntents.AppIntent",
+      "AppIntents.PersistentlyIdentifiable",
+      "AppIntents._SupportsAppDependencies",
+      "Swift.Sendable"
+    ],
+    "associatedTypeAliases": [],
+    "properties": [
+      {
+        "label": "smiley",
+        "type": "ReminderExtension.ConfigurationAppIntent",
+        "mangledTypeName": "n/a - deprecated",
+        "isStatic": "true",
+        "isComputed": "true",
+        "file": "/Users/sazim/Desktop/Development/home_wedgets/ios/Reminder/Reminder.swift",
+        "line": 70,
+        "valueKind": "Runtime"
+      },
+      {
+        "label": "starEyes",
+        "type": "ReminderExtension.ConfigurationAppIntent",
+        "mangledTypeName": "n/a - deprecated",
+        "isStatic": "true",
+        "isComputed": "true",
+        "file": "/Users/sazim/Desktop/Development/home_wedgets/ios/Reminder/Reminder.swift",
+        "line": 76,
+        "valueKind": "Runtime"
+      }
+    ]
+  }
+]

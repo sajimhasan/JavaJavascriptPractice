@@ -1,0 +1,68 @@
+{
+  "" : {
+    "diagnostics" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/ReminderExtension-master.dia",
+    "emit-module-dependencies" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/ReminderExtension-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/ReminderExtension-master-emit-module.dia",
+    "swift-dependencies" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/ReminderExtension-master.swiftdeps"
+  },
+  "/Users/sazim/Desktop/Development/home_wedgets/ios/Reminder/AppIntent.swift" : {
+    "const-values" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/AppIntent.swiftconstvalues",
+    "dependencies" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/AppIntent.d",
+    "diagnostics" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/AppIntent.dia",
+    "index-unit-output-path" : "/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/AppIntent.o",
+    "llvm-bc" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/AppIntent.bc",
+    "object" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/AppIntent.o",
+    "swift-dependencies" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/AppIntent.swiftdeps",
+    "swiftmodule" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/AppIntent~partial.swiftmodule"
+  },
+  "/Users/sazim/Desktop/Development/home_wedgets/ios/Reminder/Reminder.swift" : {
+    "const-values" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/Reminder.swiftconstvalues",
+    "dependencies" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/Reminder.d",
+    "diagnostics" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/Reminder.dia",
+    "index-unit-output-path" : "/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/Reminder.o",
+    "llvm-bc" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/Reminder.bc",
+    "object" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/Reminder.o",
+    "swift-dependencies" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/Reminder.swiftdeps",
+    "swiftmodule" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/Reminder~partial.swiftmodule"
+  },
+  "/Users/sazim/Desktop/Development/home_wedgets/ios/Reminder/ReminderBundle.swift" : {
+    "const-values" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/ReminderBundle.swiftconstvalues",
+    "dependencies" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/ReminderBundle.d",
+    "diagnostics" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/ReminderBundle.dia",
+    "index-unit-output-path" : "/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/ReminderBundle.o",
+    "llvm-bc" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/ReminderBundle.bc",
+    "object" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/ReminderBundle.o",
+    "swift-dependencies" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/ReminderBundle.swiftdeps",
+    "swiftmodule" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/ReminderBundle~partial.swiftmodule"
+  },
+  "/Users/sazim/Desktop/Development/home_wedgets/ios/Reminder/ReminderControl.swift" : {
+    "const-values" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/ReminderControl.swiftconstvalues",
+    "dependencies" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/ReminderControl.d",
+    "diagnostics" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/ReminderControl.dia",
+    "index-unit-output-path" : "/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/ReminderControl.o",
+    "llvm-bc" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/ReminderControl.bc",
+    "object" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/ReminderControl.o",
+    "swift-dependencies" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/ReminderControl.swiftdeps",
+    "swiftmodule" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/ReminderControl~partial.swiftmodule"
+  },
+  "/Users/sazim/Desktop/Development/home_wedgets/ios/Reminder/ReminderLiveActivity.swift" : {
+    "const-values" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/ReminderLiveActivity.swiftconstvalues",
+    "dependencies" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/ReminderLiveActivity.d",
+    "diagnostics" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/ReminderLiveActivity.dia",
+    "index-unit-output-path" : "/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/ReminderLiveActivity.o",
+    "llvm-bc" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/ReminderLiveActivity.bc",
+    "object" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/ReminderLiveActivity.o",
+    "swift-dependencies" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/ReminderLiveActivity.swiftdeps",
+    "swiftmodule" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/ReminderLiveActivity~partial.swiftmodule"
+  },
+  "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/sazim/Desktop/Development/home_wedgets/ios/build/Runner.build/Debug-iphonesimulator/ReminderExtension.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}
